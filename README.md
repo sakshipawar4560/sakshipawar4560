@@ -2,7 +2,7 @@
 - 👀 I’m interested in web devlopment
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate with google
-- 📫 How to reach me sakshipawar@gmail.com
+- 📫 How to reach me sakship4560@gmail.com
 
 <!---
 sakshipawar4560/sakshipawar4560 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
