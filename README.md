@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sakshipawar4560
-- 👀 I’m interested in web devlopment
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate with google
 - 📫 How to reach me sakship4560@gmail.com
